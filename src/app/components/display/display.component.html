@@ -1,0 +1,7 @@
+<div class="container-fluid p-4">
+    <button (click)="showMessage()" class="btn button">{{title}}</button>
+
+    <div *ngIf="visibility" class="cont-message">
+        <h1>Hello World!! <img src="/assets/icons/globo.png"/></h1>
+    </div>
+</div>

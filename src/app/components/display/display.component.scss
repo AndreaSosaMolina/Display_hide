@@ -1,0 +1,26 @@
+.cont-message {
+    background-color: lightblue;
+    width: 25vw;
+    margin-top: 25px;
+    padding: 10px;
+    border-radius: 10px;
+    border: 3px solid darkblue;
+    
+    h1 {
+    display: inline;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: darkblue;
+    margin: 0;
+    }
+    
+    img {
+        width: 50px;
+    }
+
+    
+}
+
+.button {
+    color: white;
+        background-color: darkblue !important;
+    }
